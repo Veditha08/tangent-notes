@@ -552,3 +552,14 @@ End with:
 
 That sentence makes you sound like a product manager rather than someone defending an idea.
 
+
+
+
+
+#imp: LIFECYCLE OF A THOUGHT. Every thought has four stages:
+
+Capture – "I have a side idea."
+Explore – "Let me go deeper."
+Synthesize – "What did I learn?"
+Integrate – "Bring the insight back."
+
